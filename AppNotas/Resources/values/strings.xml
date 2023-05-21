@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppNotas</string>
+    <string name="action_settings">Settings</string>
+	<string name="lbl1">Lista de estudiantes</string>
+
+</resources>
